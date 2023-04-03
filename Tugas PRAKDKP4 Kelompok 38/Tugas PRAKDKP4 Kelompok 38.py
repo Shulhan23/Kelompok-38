@@ -22,7 +22,7 @@ def beli():
  print("-----------------------------------") 
  meja = input("Ingin disajikan pada meja yang mana: ") 
  print("-----------------------------------") 
- print("Terima Kasih Telah Berbelanja Disini XD") 
+ print("Terima Kasih Telah Berbelanja Di sini XD") 
  print("Teh Anda Akan Segera Kami Sajikan, SIlahkan Menunggu di meja ", meja) 
  print("-----------------------------------") 
  print("jika ingin beli lagi ketik 1, jika tidak ketik 2 : ")
