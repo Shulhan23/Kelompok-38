@@ -46,4 +46,4 @@ elif (Teh == 3):
  harga = 5000
  beli() 
 else: 
- print("Tidak Ada Pilihan Kursi .") 
+ print("Tidak Ada Pilihan Teh .") 
